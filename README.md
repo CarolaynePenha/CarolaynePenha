@@ -7,7 +7,7 @@
 
 ## 📱 Contact infos
 [![Gmail Badge](https://img.shields.io/badge/-carolaynepenha@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:)](mailto:carolaynepenha@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-CarolaynePenha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://acesse.one/eQF8P)](https://https://acesse.one/eQF8P)
+[![Linkedin Badge](https://img.shields.io/badge/-CarolaynePenha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://acesse.one/eQF8P)](https://acesse.one/eQF8P)
 
 ---
 
