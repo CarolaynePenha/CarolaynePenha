@@ -19,4 +19,14 @@
   <img alt="JavaScript Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img alt="Git Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />   
+  <img alt="StyledComponents Logo" align="center" height="50" src="https://styled-components.com/logo.png" />   
+  <img alt="React Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+  <img alt="Typescript Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="NodeJs Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Webpack Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+  <img alt="Express Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img alt="MongoDB Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img alt="PostgresSQL Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img alt="Rest Logo" align="center" height="50" src="https://driveneducation.zendesk.com/hc/article_attachments/4408960959501/img.png" />
+  <img alt="NPM Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />  
 </div>
