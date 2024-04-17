@@ -1,6 +1,6 @@
 ### Hi everyone 👋
 
-- 🔭 I’m currently studying software engineering
+- 🔭 Full-Stack Web Developer
 - 🦋 I'm always pushing myself further.
 - 😄 Pronouns: She/Her, Ela/Dela
 - ⚡ Fun fact: I love reading fantasy books.
@@ -29,4 +29,5 @@
   <img alt="PostgresSQL Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
   <img alt="Rest Logo" align="center" height="50" src="https://driveneducation.zendesk.com/hc/article_attachments/4408960959501/img.png" />
   <img alt="NPM Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />  
+  <img alt="Docker Logo" align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
 </div>
